@@ -1,0 +1,15 @@
+# Site settings
+title: Emil Marklund's blog of digital magics
+email: eeemil@acc.umu.se
+description: > 
+  A blog on programming, GNU Linux/Unix and other things I might find interesting.
+  I like to learn and teach and writing about what I learn is a great way to do both.
+  This blog is running Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://eeemil.com" # the base hostname & protocol for your site
+twitter_username: eeemil_
+github_username:  eeemil
+git_repo: blog
+
+# Build settings
+markdown: kramdown
